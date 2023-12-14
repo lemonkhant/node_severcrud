@@ -1,6 +1,6 @@
-This is the node sever using the express and simple crud for api only with flutter.
+This is the node server using the express and simple crud for API only with flutter.
 
 
-if you want to define and somthing you will be pull and request.
+if you want to define something you will be pull and request.
 
 creat by LemonK
